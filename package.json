@@ -1,0 +1,27 @@
+{
+  "name": "crazyclick-sdk",
+  "version": "1.0.0",
+  "description": "crazy click sdk for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevezheng/CrazyClick-SDK.git"
+  },
+  "keywords": [
+    "crazy-click"
+  ],
+  "author": "stevezheng",
+  "license": "MTI",
+  "bugs": {
+    "url": "https://github.com/stevezheng/CrazyClick-SDK/issues"
+  },
+  "dependencies": {
+    "phpjs": "~1.3.2",
+    "request": "*",
+    "moment": "*",
+    "underscore": "*"
+  }
+}
